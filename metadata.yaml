@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '26137'
     url: http://www.gutenberg.org/2009/agents/26137
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23941#Country-Walks-of-a-Naturalist-with-His-Children
 gutenberg_bookshelf: Children's Instructional Books
 gutenberg_issued: '2007-12-20'
 gutenberg_type: Text
